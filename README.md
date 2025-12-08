@@ -6,7 +6,7 @@ About Me
     👀 I’m interested in computer vision, artificial intelligence, and machine learning.
     🌱 I’m currently learning and experimenting with Dehazing algorithms to improve image clarity and visibility.
     💞️ I’m looking to collaborate on projects related to computer vision and image processing.
-    📫 You can reach me via email at your.email@example.com.
+    📫 You can reach me via email at adithya.jvsc@gmail.com
     😄 Pronouns: He/Him
     
 Feel free to explore my GitHub repositories and reach out if you're interested in collaborating or discussing anything related to AI, computer vision, or Image Enhancement Algorithms! 🚀
