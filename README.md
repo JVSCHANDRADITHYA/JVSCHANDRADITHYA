@@ -1,17 +1,1 @@
-Hi there! 👋
-
-I'm @JVSCHANDRADITHYA, an AI enthusiast with a keen interest in computer vision tasks. Currently, I'm diving deep into the world of Dehazing algorithms, working to enhance visibility in images through innovative techniques.
-About Me
-
-    👀 I’m interested in computer vision, artificial intelligence, and machine learning.
-    🌱 I’m currently learning and experimenting with Dehazing algorithms to improve image clarity and visibility.
-    💞️ I’m looking to collaborate on projects related to computer vision and image processing.
-    📫 You can reach me via email at adithya.jvsc@gmail.com
-    😄 Pronouns: He/Him
-    
-Feel free to explore my GitHub repositories and reach out if you're interested in collaborating or discussing anything related to AI, computer vision, or Image Enhancement Algorithms! 🚀
-
-<!---
-JVSCHANDRADITHYA/JVSCHANDRADITHYA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I’m Chandradithya. I enjoy building systems end to end, from data pipelines to deployable models. Most of my work revolves around Applications, applied AI and computer vision, with a strong focus on robustness, scalability, and real-world constraints. I like working close to the system rather than never-gonna-use-this POC and demos.
