@@ -36,3 +36,8 @@ Commit regularly — the build may succeed someday.
 </p>
 
 </div>
+<br>
+
+<div align="center">
+<img src = "https://komarev.com/ghpvc/?username=JVSCHANDRADITHYA">
+</div>
