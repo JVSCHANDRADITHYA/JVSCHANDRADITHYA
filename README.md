@@ -27,7 +27,7 @@ and real-world constraints. I prefer building production-oriented systems rather
 
 <p style="font-family:serif; font-size:20px; line-height:1.8;">
 कर्मण्येवाधिकारस्ते मा फलेषु कदाचन<br>
-commitं कुरु नित्यं buildः भविष्यति कदाचित् ॥
+commit: कुरु नित्यं build: भविष्यति कदाचित् ॥
 </p>
 
 <p style="font-style:italic;">
@@ -36,8 +36,8 @@ Commit regularly — the build may succeed someday.
 </p>
 
 </div>
-<br>
+<!-- <br>
 
 <div align="center">
 <img src = "https://komarev.com/ghpvc/?username=JVSCHANDRADITHYA&base=1221">
-</div>
+</div> -->
